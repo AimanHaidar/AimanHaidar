@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi There
+I am Aiman Haidar from Yemen.
 
-<!--
-**AimanHaidar/AimanHaidar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am interested in Mathematics, Physics, programming,and Robotics engingeering.
 
-Here are some ideas to get you started:
+I am studying in engineering collage in the mechatronics department
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love problem solving and research.
+
+I can programm in C++,python
+
+**skills:**
+
+problem solving | project management | coding | mathematical modeling 
