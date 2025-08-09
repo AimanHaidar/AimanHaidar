@@ -7,7 +7,7 @@ I am studying in engineering collage in the mechatronics department
 
 I love problem solving and research.
 
-I can programm in C++,python
+I can programm in C++ and python
 
 **skills:**
 
