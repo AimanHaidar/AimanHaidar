@@ -11,4 +11,4 @@ I can programm in C++ and python
 
 **skills:**
 
-problem solving | project management | coding | mathematical modeling 
+problem solving | coding | mathematical modeling 
