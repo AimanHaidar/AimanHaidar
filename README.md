@@ -52,9 +52,6 @@ I love **problem-solving, research**, and building projects that combine theoret
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-**Core Competencies:**  
-Motion Control | Forward & Inverse Kinematics | Rigid-Body Transformations | Embedded Systems | Mathematical Modeling  
-
 ---
 
 ## 🌍 Open-Source Contributions
