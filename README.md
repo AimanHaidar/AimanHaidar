@@ -6,6 +6,7 @@
   <a href="https://committers.top/yemen/AimanHaidar"><img src="https://user-badge.committers.top/yemen/AimanHaidar.svg?style=flat-square" alt="committers.top badge"></a>
 </p>
 
+
 ---
 
 ## 👨‍🔧 About Me
@@ -26,6 +27,11 @@ I love **problem-solving, research**, and building projects that combine theoret
   </a>
 </p>
 
+<p align="center">
+  <a href="https://user-badge.committers.top/yemen/AimanHaidar">
+    <img src="https://user-badge.committers.top/yemen/AimanHaidar.svg" alt="Aiman Haidar committers.top rank">
+  </a>
+</p>
 
 ---
 
