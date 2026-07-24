@@ -33,6 +33,12 @@ I love **problem-solving, research**, and building projects that combine theoret
   </a>
 </p>
 
+<p align="center">
+  <a href="https://projecteuler.net/">
+    <img src="https://projecteuler.net/profile/AimanTaherHaidar.png" alt="Project Euler Progress" />
+  </a>
+</p>
+
 ---
 
 ## 🛠️ Skills & Technologies
