@@ -20,18 +20,12 @@ I love **problem-solving, research**, and building projects that combine theoret
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/AimanHaidar">
-    <img src="https://github-readme-stats.vercel.app/api?username=AimanHaidar&show_icons=true&theme=radical&hide_border=true" alt="Aiman Haidar's GitHub Stats" />
-  </a>
+  
   <a href="https://github.com/AimanHaidar">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AimanHaidar&theme=radical&hide_border=true" alt="Aiman Haidar's GitHub Streak" />
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/AimanHaidar">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AimanHaidar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
+
 
 ---
 
